@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.codechef.com/users/n3r0nur12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="n3r0nur12" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/n3r0nur12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="n3r0nur12" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/n3r0nur12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="n3r0nur12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/n3r0nur12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="n3r0nur12" height="30" width="40" /></a>
 </p>
 
