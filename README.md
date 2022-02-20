@@ -1,10 +1,10 @@
 ### Hi 👋, I'm Onurcan Isler!
 
-💻 I am currently a Computer Science & Engineering Bachelor Student at Marmara University.
-✨ I will be sharing my coding projects and solutions for some of the algorithm problems I find on Competitive programming websites.
-💫 I have a great interest in the fields of AI and Networking Algorithms.
-🌱 I'm currently learning Machine Learning algorithms and practicing Full Stack Development for upcoming hackathons.
-🤓 I especially give great importance to courses related to Computer Science and I'm trying to keep my GPA as high as possible (3.75 out of 4.00).
+- 💻 I am currently a Computer Science & Engineering Bachelor Student at Marmara University.
+- ✨ I will be sharing my coding projects and solutions for some of the algorithm problems I find on Competitive programming websites.
+- 💫 I have a great interest in the fields of AI and Networking Algorithms.
+- 🌱 I'm currently learning Machine Learning algorithms and practicing Full Stack Development for upcoming hackathons.
+- 🤓 I especially give great importance to courses related to Computer Science and I'm trying to keep my GPA as high as possible (3.75 out of 4.00).
 
 
 
