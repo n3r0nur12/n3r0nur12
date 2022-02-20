@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 </p>
   
 <br />
-<br />
 
 <h4 align="left">You can find me on:
 <p align="left">
