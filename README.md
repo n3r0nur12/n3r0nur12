@@ -4,7 +4,7 @@
 - ✨ I will be sharing my coding projects and solutions for some of the algorithm problems I find on Competitive programming websites.
 - 💫 I have a great interest in the fields of AI and Networking Algorithms.
 - 🌱 I'm currently learning Machine Learning algorithms and practicing Full Stack Development for upcoming hackathons.
-- 🤓 I especially give great importance to courses related to Computer Science and I'm trying to keep my GPA as high as possible (3.75 out of 4.00).
+- 🤓 I especially give great importance to courses related to Computer Science and I'm trying to learn from these classes as much as possible.
 
 
 
