@@ -2,7 +2,7 @@
 
 - 💻 I am currently a Computer Science & Engineering Bachelor Student at Marmara University.
 - ✨ I will be sharing my coding projects and solutions for some of the algorithm problems I find on Competitive programming websites.
-- 💫 I have a great interest in the fields of AI and Networking Algorithms.
+- 💫 I have a great interest in the fields of Machine Learning and Genetic Algorithms.
 - 🌱 I'm currently learning Machine Learning algorithms and practicing Full Stack Development for upcoming hackathons.
 - 🤓 I especially give great importance to courses related to Computer Science and I'm trying to learn from these classes as much as possible.
 
