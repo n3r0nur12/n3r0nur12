@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Onurcan Isler!
 
-- 💻 I am currently a Computer Science & Engineering Bachelor Student at Marmara University.
+- 💻 I am currently a Masters of Informatics student at Technical University of Munich.
 - ✨ I will be sharing my coding projects and solutions for some of the algorithm problems I find on Competitive programming websites.
 - 💫 I have a great interest in the fields of Machine Learning and Genetic Algorithms.
 - 🌱 I'm currently learning Machine Learning algorithms and practicing Full Stack Development for upcoming hackathons.
